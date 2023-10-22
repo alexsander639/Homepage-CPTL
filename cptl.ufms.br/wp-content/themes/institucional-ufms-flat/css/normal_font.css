@@ -1,0 +1,11 @@
+body { 
+ font-size: 13px/20px;
+}
+
+ul.noticias li span { 
+  color: gray;
+}
+
+.navbar-default { 
+  font-weight: bold !important; 
+}

@@ -1,0 +1,39 @@
+/* Estilos - Fonte Maior */
+body { 
+ font: 16px/22px Tahoma, Helvetica,Arial, sans-serif;
+}
+
+h5, h2, h4, h3 { 
+ font-family: Tahoma, Helvetica,Arial, sans-serif;
+}
+
+h5 {
+  font-size: 1.3em;
+}
+
+.boxesMid .item>h5 {
+   font-size: 1.8em;
+}
+
+.menu li  a{
+  font-size: 1.3em;
+}
+
+.box-border > .title {
+  font-family: Tahoma, Helvetica,Arial, sans-serif;
+   font-size: 1.7em;
+}
+
+ul.noticias li span { 
+  color: gray;
+}
+
+.navbar-default { 
+  font-weight: bold !important;
+  
+}
+
+.navbar-nav li a, .navbar-nav .dropdown-menu li a, .navbar-nav > li> a { 
+  font-size: 1.3em !important;
+}
+/*  Mudar -- .navbar-topo li a { tirar o font weight } */

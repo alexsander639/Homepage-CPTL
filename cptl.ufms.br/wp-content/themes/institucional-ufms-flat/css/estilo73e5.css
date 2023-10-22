@@ -1,0 +1,7 @@
+.container-tv .rsDefault .rsThumbs, .container-tv .navbar-inverse, .container-tv .marquee, .rsDefault .rsThumb.rsNavSelected,nav.icones-rapidos-centros ul,.navegacao-topo { background: #0088b7; }
+.container-tv .blocoTexto .img_principal, .sp-bottom-thumbnails.sp-has-pointer .sp-selected-thumbnail:before {
+	border-color: #0088b7;
+}
+.sp-bottom-thumbnails.sp-has-pointer .sp-selected-thumbnail:after {
+	border-bottom-color: #0088b7;
+}
